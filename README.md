@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Samyok Limbu</h1>
 <h3 align="center">Aspiring Mobile Developer | Currently Diving into React Native</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding" width="500"/>
 </p>
 
 <p align="center">
